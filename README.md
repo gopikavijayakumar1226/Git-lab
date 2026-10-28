@@ -62,7 +62,7 @@ After completing these exercises, users will be able to:
 
 ## 👩‍💻 Author
 
-Ananda Jothi R
+Gopika V
 
 ## 📄 License
 
