@@ -1,3 +1,4 @@
+The following is a sample demonstration. Start with a clean repository and use a separate practice file.
 cd git-practical
 echo "Welcome to Git" > conflict-demo.txt
 git add conflict-demo.txt
